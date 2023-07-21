@@ -1,5 +1,6 @@
 # Arch-SnipeIT-Automation-Tool
 A CLI application designed to simplify the process of managing computer inventory using the Snipe-It database system for the City College of New York Architecture IT department. This tool automates the process of extracting computer specifications and adding new desktops/laptops to the database with ease.
+
 (Showcase purpose only. This tool was developed and used internally. None of the API functions will work obviously, expect the system report options)
 
 ## Screenshots
